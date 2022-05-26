@@ -13,3 +13,21 @@ console.log(pontosTuristicos)
 console.log(numeroEstados)
 console.log(capital)
 console.log(americaLatina)
+
+
+
+console.log(
+    `Meu nome é ${primeiroNome} ${ultimoNome} e eu tenho ${idade} anos`
+  );
+  
+  console.log(
+    "Meu nome é Leticia Santos" +
+      primeiroNome +
+      "Leticia" +
+      ultimoNome +
+      "Santos" +
+      idade +
+      "Tenho 19 anos"
+  );
+
+  
