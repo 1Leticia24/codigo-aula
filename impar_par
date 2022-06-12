@@ -1,0 +1,14 @@
+
+const valorNumerico = prompt("Digite aqui um número: 2");
+console.log(valorNumerico);
+
+const par = valorNumerico%2;
+
+
+if (par == 0) {
+    console.log(` ${valorNumerico} é par`);
+}
+
+else (impar == 0) {
+    console.log(` ${valorNumerico} é impar`);
+}
